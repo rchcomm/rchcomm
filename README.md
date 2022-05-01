@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 현재 필라넷에서 R&D 센터에서 1팀으로 근무를 하고 있습니다.
+
 <!--
 **rchcomm/rchcomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
